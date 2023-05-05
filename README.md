@@ -30,7 +30,6 @@ I am a computer science student.
 <hr/>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rawanhesham15)](https://github.com/rawanhesham15/github-readme-stats)
 
 </div>
