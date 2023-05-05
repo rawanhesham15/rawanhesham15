@@ -1,6 +1,6 @@
 <h1 align="center" > Hi, I am Rawan Hesham 👋</h1>
 
-I am a computer science student.
+It's me, a 2nd year undergraduate computer science student.
 
 - 🔭 I’m currently studying at Faculty of Computers and Artificial Intelligence, Cairo Univrsity.
 - 🌱 I’m currently learning Java, HTML, CSS, and JS.
@@ -28,7 +28,7 @@ I am a computer science student.
 <hr/>
 
 <div align="center">
-[![rawan's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Rawan's github stats](https://github-readme-stats.vercel.app/api?username=rawanhesham15&show_icons=true&theme=radical)
+
 
 </div>
