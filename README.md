@@ -2,9 +2,9 @@
 
 It's me, a 2nd year undergraduate computer science student.
 
-- 🔭 I’m currently studying at Faculty of Computers and Artificial Intelligence, Cairo Univrsity.
-- 🌱 I’m currently learning Java, HTML, CSS, and JS.
-- 📫 How to reach me: rawan156hesham@gmail.com.
+- 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo Univrsity.**
+- 🌱 I’m currently learning **Java, HTML, CSS, and JS.**
+- 📫 How to reach me: **rawan156hesham@gmail.com.**
 
 <hr/>
 
@@ -27,8 +27,3 @@ It's me, a 2nd year undergraduate computer science student.
 
 <hr/>
 
-<div align="center">
-![Rawan's github stats](https://github-readme-stats.vercel.app/api?username=rawanhesham15&show_icons=true&theme=radical)
-
-
-</div>
