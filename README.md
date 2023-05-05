@@ -2,15 +2,6 @@
 
 <hr/>
 
-<div align="center">
-
-
-[![Rawan's github stats](https://github-readme-stats.vercel.app/api?username=hayat-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
 I am a computer science student.
 
 - 🔭 I’m currently studying at Faculty of Computers and Artificial Intelligence, Cairo Univrsity.
@@ -27,7 +18,6 @@ I am a computer science student.
 
 <hr/>
 
-
 ##### Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -36,3 +26,11 @@ I am a computer science student.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+<hr/>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
