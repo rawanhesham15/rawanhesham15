@@ -1,7 +1,5 @@
 <h1 align="center" > Hi, I am Rawan Hesham 👋</h1>
 
-<hr/>
-
 I am a computer science student.
 
 - 🔭 I’m currently studying at Faculty of Computers and Artificial Intelligence, Cairo Univrsity.
