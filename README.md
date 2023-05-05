@@ -1,6 +1,6 @@
 <h1 align="center" > Hi, I am Rawan Hesham 👋</h1>
 
-It's me, a 2nd year undergraduate computer science student.
+<h4> It's me, a 2nd year undergraduate computer science student. </h4>
 
 - 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo Univrsity.**
 - 🌱 I’m currently learning **Java, HTML, CSS, and JS.**
@@ -27,3 +27,9 @@ It's me, a 2nd year undergraduate computer science student.
 
 <hr/>
 
+<p align="center">
+  
+   <img src="https://github-readme-stats.vercel.app/api?username=rawanhesham15&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanhesham15&count_private=true&theme=dracula">
+
+</p>
