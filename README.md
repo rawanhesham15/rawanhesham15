@@ -3,7 +3,7 @@
 <h4> It's me, a 2nd year undergraduate computer science student. </h4>
 
 - 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo Univrsity.**
-- 🌱 I’m currently learning **Java, HTML, CSS, and JS.**
+- 🌱 I’m currently learning **Java, HTML, CSS, JS, and SQL.**
 - 📫 How to reach me: **rawan156hesham@gmail.com.**
 
 <hr/>
