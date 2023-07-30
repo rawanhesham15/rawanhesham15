@@ -1,11 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="center">
 </div>
-<br>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/rawanhesham15/count.svg" />
-</p>
+
 <h1 align="center" > Hi, I am Rawan Hesham <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <h4> It's me, a 3nd year undergraduate computer science student. </h4>
@@ -51,6 +47,12 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr/>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/rawanhesham15/count.svg" />
+</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
