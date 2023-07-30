@@ -1,9 +1,17 @@
-<h1 align="center" > Hi, I am Rawan Hesham 👋</h1>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="center">
+</div>
+<br>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/rawanhesham15/count.svg" />
+</p>
+<h1 align="center" > Hi, I am Rawan Hesham <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <h4> It's me, a 3nd year undergraduate computer science student. </h4>
 
-- 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo Univrsity.**
-- 🌱 I’m currently learning **Java, HTML, CSS, JS, and SQL.**
+- 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo Univrsity.** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 🌱 I’m currently learning **Java, HTML, CSS, JS, and SQL.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 📫 How to reach me: **rawan156hesham@gmail.com.**
 
 <hr/>
@@ -38,13 +46,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanhesham15&count_private=true&theme=dracula">
 
 </p>
-
 <hr/>
 
-<div align="center">
-  
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+## 🏆 GitHub Trophies
 
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
