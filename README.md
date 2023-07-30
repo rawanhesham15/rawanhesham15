@@ -1,6 +1,6 @@
 <h1 align="center" > Hi, I am Rawan Hesham 👋</h1>
 
-<h4> It's me, a 2nd year undergraduate computer science student. </h4>
+<h4> It's me, a 3nd year undergraduate computer science student. </h4>
 
 - 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo Univrsity.**
 - 🌱 I’m currently learning **Java, HTML, CSS, JS, and SQL.**
@@ -38,3 +38,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanhesham15&count_private=true&theme=dracula">
 
 </p>
+
+<hr/>
+
+<div align="center">
+  
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
+![pv](https://pageview.vercel.app/?github_user=mopig)
+
+</div>
