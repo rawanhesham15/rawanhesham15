@@ -4,7 +4,7 @@
 
 <h1 align="center" > Hi, I am Rawan Hesham <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h4> It's me, a 3nd year undergraduate computer science student. </h4>
+<h4> It's me, a 3rd year undergraduate computer science student. </h4>
 
 - 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo Univrsity.** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 🌱 I’m currently learning **Java, HTML, CSS, JS, and SQL.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
