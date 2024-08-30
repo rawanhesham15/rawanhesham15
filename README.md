@@ -16,7 +16,6 @@
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RawanHesham156)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawan156hesham@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rawan-hesham-40600b262/](https://www.linkedin.com/in/rawan-hesham-%F0%9F%87%B5%F0%9F%87%B8-40600b262/)
 
 <hr/>
 
